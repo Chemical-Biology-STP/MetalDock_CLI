@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Yip
+    given-names: Yew Mun
+    orcid: https://orcid.org/<orcid>
+title: "<title>"
+version: <version_no>
+identifiers:
+  - type: doi
+    value: <zenodo_doi>
+date-released: <YYYY-MM-DD>
