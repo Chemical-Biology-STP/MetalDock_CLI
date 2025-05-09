@@ -8,5 +8,5 @@ title: "MetalDock CLI"
 version: 0.1.0
 identifiers:
   - type: doi
-    value: <zenodo_doi>
-date-released: <2025-05-09>
+    value: https://doi.org/10.5281/zenodo.15377226
+date-released: 2025-05-09

@@ -1,5 +1,7 @@
 # MetalDock CLI
 
+[![DOI](https://zenodo.org/badge/980892014.svg)](https://doi.org/10.5281/zenodo.15377226)
+
 MetalDock CLI is a command-line interface for setting up and running metal coordination docking workflows, supporting both single and batch ligand screening.
 
 ## 📥 Installation Instructions
