@@ -68,4 +68,4 @@ If either ORCA or MetalDock is missing, the script will notify you with instruct
 If you use this code in any context, please cite:
 
 > Y. M. Yip (2025). *MetalDock CLI* (v0.1.0) [Computer software].  
-> DOI: [<zenodo_doi>](https://doi.org/<zenodo_doi>)
+> DOI: [https://doi.org/10.5281/zenodo.15377226](https://doi.org/10.5281/zenodo.15377226)
