@@ -1,0 +1,15 @@
+# File: /metaldock_streamlit/pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metaldock_cli"
+version = "0.1.0"
+description = "Command-line interface for MetalDock"
+requires-python = ">=3.12"
+dependencies = ["mendeleev==1.0.0", "questionary==2.1.0"]
+
+[project.scripts]
+metaldock_cli = "metaldock_cli.cli:main"

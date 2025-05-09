@@ -4,5 +4,5 @@
 
 If you use this code in any context, please cite:
 
-> Y. M. Yip (YEAR). *PROJECT TITLE* (v0.1.0) [Computer software].  
+> Y. M. Yip (2025). *MetalDock CLI* (v0.1.0) [Computer software].  
 > DOI

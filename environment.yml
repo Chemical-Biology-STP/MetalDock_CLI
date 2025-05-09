@@ -1,0 +1,17 @@
+name: metaldock_cli
+channels:
+  - https://conda.ccdc.cam.ac.uk
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - conda-forge::rdkit
+  - ca-certificates
+  - openssl
+  - conda-forge::ase
+  - conda-forge::biopython
+  - pip
+  - pip:
+    - build
+    - .
